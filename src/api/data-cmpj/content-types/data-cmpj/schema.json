@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "data_cmpjs",
+  "info": {
+    "singularName": "data-cmpj",
+    "pluralName": "data-cmpjs",
+    "displayName": "data-cmpj"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "string",
+      "required": true
+    },
+    "urlVideo": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
